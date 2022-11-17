@@ -18,7 +18,7 @@
     - [x] Setup [Traefik](https://traefik.io/) reverse proxy
     - [x] Setup TLS and Certificates - via [cert-manager](https://cert-manager.io/), [Lets Encrypt](https://letsencrypt.org/)
     - [x] Setup [Dashy](https://dashy.to/) as a landing pad
-    - [x] Setup Wordpress for local hosting of HOA website
-    - [ ] Setup Monitoring
+    - [x] Setup [Wordpress](https://wordpress.org/) for local hosting of HOA website
+    - [ ] Setup Monitoring for K8s
     - [ ] 
     <br/><br/>
