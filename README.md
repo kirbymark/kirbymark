@@ -1,11 +1,16 @@
 # Hi There :wave:
 
+I help people and organizations harness technology.
+
+I’m a software engineering architect specializing in helping organizations plan and implement transformational systems. Currently, I’m focused on Hospitality @Capgemini.
+
 ## Personal projects I'm currently working on:
 
 1. creating a personal online profile
 
     - [x] get this README up on my Profile
     - [ ] taking inspiration from [Brittany Chiang](https://brittanychiang.com/) and [Raymond Li](https://raymond.li/)
+    - [ ] learn [Gatsby](https://www.gatsbyjs.com/docs/tutorial/)
     - [ ] Publish version 1.0
     <br/><br/>
 
