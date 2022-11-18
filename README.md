@@ -1,4 +1,4 @@
-# Hi There :wave:
+# Hi there :wave:
 
 I help people and organizations harness technology.
 
