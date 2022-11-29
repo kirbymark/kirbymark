@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/kirbymark/">
+    <img alt="Mark's Icon" src="https://github.com/kirbymark/mark-site/raw/master/src/images/kirbymark-mg.svg" width="100" />
+  </a>
+</p>
+<hr>
+
 # Hi there :wave:
 
 I help people and organizations unlock technology's value.
