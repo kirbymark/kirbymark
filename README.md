@@ -9,7 +9,7 @@
 
 I help people and organizations unlock technology's value.
 
-I’m a software engineer, architect, and team lead specializing in helping organizations accomplish thier stategic technology objectives. Currently, I’m focused on helping [Capgemini's Hospitality cleints](https://www.capgemini.com/industries/hospitality-travel/) transform thier systems.
+I’m a software solutions architect, engineer, and team lead specializing in helping organizations accomplish thier stategic technology objectives. Currently, I’m focused on helping [Capgemini's Hospitality cleints](https://www.capgemini.com/industries/hospitality-travel/) transform thier systems.
 
 
 ## Personal projects I'm currently working on:
