@@ -57,4 +57,5 @@ I’m a software solutions architect, engineer, and team lead specializing in he
     - [ ] Publish version 1.0
     <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kirbymark&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
+## Some stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=kirbymark&theme=dark&border_radius=4.6&background=0314DD)](https://git.io/streak-stats)
