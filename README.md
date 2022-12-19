@@ -59,8 +59,20 @@ I’m a software solutions architect, engineer, and team lead specializing in he
       - [x] learn [Gatsby](https://www.gatsbyjs.com/docs/tutorial/)
       - [x] [Publish v1.0[(https://me.kirbymark.dev)
     <br/><br/>
-    - [ ] Add build automation to deploy to cloudflare Pages
-    - [ ] - [ ] Add TDD / BDD to personal website
+    - [ ] Automate deployment
+      - [ ] Add build automation to deploy to cloudflare Pages
+      - [ ] Add TDD / BDD to personal website
+      - [ ] Add repo badges
+    <br/><br/>
+    - [ ] Add content
+      - [ ] Add build automation to deploy to cloudflare Pages
+      - [ ] Add TDD / BDD to personal website
+      - [ ] Add repo badges
+    <br/><br/>
+    - [ ] Add tracking / monitoring
+      - [ ] Google site tracking
+      - [ ] badges for monitoring
+    
     
 
 ## GitHub Streak Stats
