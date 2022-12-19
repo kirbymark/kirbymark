@@ -66,7 +66,6 @@ I’m a software solutions architect, engineer, and team lead specializing in he
     <br/><br/>
     - [ ] Add content
       - [ ] Add tech resources
-      
     <br/><br/>
     - [ ] Add tracking / monitoring
       - [ ] Google site tracking
