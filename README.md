@@ -41,20 +41,23 @@ I’m a software solutions architect, engineer, and team lead specializing in he
         - [x] Setup Internet Domains 
         - [x] Setup Internet connectivity 
         - [x] Setup Github
+        - [ ] Setup Github Actions to automate Gatsby personal website deployment
     <br/><br/>        
     - Apps 
         - [x] Setup [Dashy](https://dashy.to/) as a landing pad
         - [x] Setup [Wordpress](https://wordpress.org/) for local hosting of HOA website
+        - [x] Standup [Gatsby based personal website](https://me.kirbymark.dev) 
     <br/><br/>        
 
 
 
-2. creating a personal online profile
+2. build out [personal website](https://me.kirbymark.dev)
 
+  - create initial version of personal online profile
     - [x] get this README up on my Profile
-    - [ ] taking inspiration from [Brittany Chiang](https://brittanychiang.com/) and [Raymond Li](https://raymond.li/)
-    - [ ] learn [Gatsby](https://www.gatsbyjs.com/docs/tutorial/)
-    - [ ] Publish version 1.0
+    - [x] taking inspiration from [Brittany Chiang](https://brittanychiang.com/) and [Raymond Li](https://raymond.li/)
+    - [x] learn [Gatsby](https://www.gatsbyjs.com/docs/tutorial/)
+    - [x] [Publish v1.0[(https://me.kirbymark.dev)
     <br/><br/>
 
 ## GitHub Streak Stats
