@@ -53,12 +53,15 @@ I’m a software solutions architect, engineer, and team lead specializing in he
 
 2. build out [personal website](https://me.kirbymark.dev)
 
-  - create initial version of personal online profile
-    - [x] get this README up on my Profile
-    - [x] taking inspiration from [Brittany Chiang](https://brittanychiang.com/) and [Raymond Li](https://raymond.li/)
-    - [x] learn [Gatsby](https://www.gatsbyjs.com/docs/tutorial/)
-    - [x] [Publish v1.0[(https://me.kirbymark.dev)
+    - [x] Initial version of personal online profile
+      - [x] get this README up on my Profile
+      - [x] taking inspiration from [Brittany Chiang](https://brittanychiang.com/) and [Raymond Li](https://raymond.li/)
+      - [x] learn [Gatsby](https://www.gatsbyjs.com/docs/tutorial/)
+      - [x] [Publish v1.0[(https://me.kirbymark.dev)
     <br/><br/>
+    - [ ] Add build automation to deploy to cloudflare Pages
+    - [ ] - [ ] Add TDD / BDD to personal website
+    
 
 ## GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=kirbymark&theme=dark&border_radius=4.6&background=020C81&fire=176FDD&ring=22CDDD&currStreakLabel=2490DD)](https://git.io/streak-stats)
