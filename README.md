@@ -65,7 +65,7 @@ I’m a software solutions architect, engineer, and team lead specializing in he
       - [ ] Add repo badges
     <br/><br/>
     - [ ] Add content
-      - [ ] Add tech resources
+      - [ ] Build out Techlinks content
     <br/><br/>
     - [ ] Add tracking / monitoring
       - [ ] Google site tracking
