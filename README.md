@@ -57,7 +57,7 @@ I’m a software solutions architect, engineer, and team lead specializing in he
       - [x] get this README up on my Profile
       - [x] taking inspiration from [Brittany Chiang](https://brittanychiang.com/) and [Raymond Li](https://raymond.li/)
       - [x] learn [Gatsby](https://www.gatsbyjs.com/docs/tutorial/)
-      - [x] [Publish v1.0[(https://me.kirbymark.dev)
+      - [x] [Publish v1.0](https://www.kirbymark.dev)
     <br/><br/>
     - [x] Automate deployment
       - [x] Add build automation to deploy to cloudflare Pages
