@@ -46,7 +46,7 @@ I’m a software solutions architect, engineer, and team lead specializing in he
     - Apps 
         - [x] Setup [Dashy](https://dashy.to/) as a landing pad
         - [x] Setup [Wordpress](https://wordpress.org/) for local hosting of HOA website
-        - [x] Standup [Gatsby based personal website](https://me.kirbymark.dev) 
+        - [x] Standup [Gatsby based personal website](https://www.kirbymark.dev) 
     <br/><br/>        
 
 
